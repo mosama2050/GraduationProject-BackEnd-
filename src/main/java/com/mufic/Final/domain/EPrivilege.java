@@ -1,0 +1,7 @@
+package com.mufic.Final.domain;
+
+public enum EPrivilege {
+    ADD_STUDENT, READ_STUDENT, DELETE_STUDENT, UPDATE_STUDENT,
+    ADD_DOCTOR, READ_DOCTOR, DELETE_DOCTOR, UPDATE_DOCTOR,
+    READ_API, PROFILE
+}
